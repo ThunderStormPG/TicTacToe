@@ -1,0 +1,14 @@
+# Build artifacts
+out/
+dist/
+*.jar
+MANIFEST.MF
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+
+# OS specific
+Thumbs.db
+Desktop.ini
