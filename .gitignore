@@ -1,14 +1,6 @@
-# Build artifacts
-out/
+*.class
 dist/
-*.jar
-MANIFEST.MF
-
-# IDE specific
+out/
+bin/
 .idea/
 *.iml
-.vscode/
-
-# OS specific
-Thumbs.db
-Desktop.ini
